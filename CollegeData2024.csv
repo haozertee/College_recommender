@@ -1,0 +1,23 @@
+college,USN_rank,Tuition,State,Region,acceptance,undergrad pop,SAT Low,SAT High,ACT Low,ACT High,App Deadline,Int App Deadline,SAT ACT Deadline,EA Deadline,SAT ACT Req,TOFEL Req,IELTS Req,ED or EA
+MIT,2,62396,MA,NE,5%,4576,1510,1580,34,36,"January 1, 2026",6-Jan,"February 15, 2026","November 1, 2025",Required,Recommended,Recommended,EA
+Princeton University,1,62400,NJ,MA,4%,5671,1500,1580,34,35,"January 1, 2026",1-Jan,"January 1, 2026","November 1, 2025",Considered,Required,Required,EA
+Harvard University,3,61676,MA,NE,3%,7110,1500,1580,34,36,"January 1, 2026",1-Jan,"March 1, 2026","November 1, 2025",Required,Considered,NA,EA
+Stanford University,4,65910,CA,SW,4%,8054,1510,1580,34,35,"January 5, 2026",5-Jan,"January 15, 2026","November 1, 2025",Considered,Recommended,Considered,EA
+Yale University,5,67250,CT,NE,5%,6818,1500,1580,33,35,"January 2, 2026",1-Jan,"March 15, 2026","November 1, 2025",Considered,Recommended,Recommended,EA
+CIT,6,65898,CA,SW,3%,1023,1530,1570,34,36,"January 3, 2026",3-Jan,"December 31, 2025","November 1, 2025",Required,Required,Required,EA
+Duke University,6,69140,NC,SE,7%,6488,1520,1570,34,35,"January 2, 2026",3-Jan,"January 3, 2026","November 1, 2025",Required,NA,NA,ED
+John Hopkins University,6,65230,MD,MA,8%,6090,1530,1580,34,35,"January 3, 2026",2-Jan,"January 17, 2026","November 1, 2025",Considered,Considered,Considered,ED
+North Western University,6,68322,IL,MW,7%,8846,1490,1580,33,35,"January 1, 2026",1-Jan,"January 1, 2026","November 1, 2025",Considered,Required,Required,ED
+Univesity of Pennsylvania,10,68686,PA,MA,6%,9995,1500,1570,34,35,"January 5, 2026",5-Jan,"February 1, 2026","November 1, 2025",Considered,Required,NA,ED
+Cornell University,11,69314,NY,MA,8%,16071,1480,1560,33,35,"January 2, 2026",2-Jan,"January 2, 2026","November 1, 2025",Considered,Required,Required,ED
+University of Chicago,11,69324,IL,MW,5%,7489,1510,1570,34,35,"January 6, 2026",6-Jan,"January 6, 2026","November 1, 2025",Considered,Considered,Considered,Both
+Brown University,13,71312,RI,NE,5%,7741,1500,1570,34,35,"January 3, 2026",3-Jan,"January 3, 2026","November 1, 2025",Required,Recommended,Recommended,ED
+Columbia University,13,71170,NY,MA,4%,8902,1490,1580,34,35,"January 1, 2026",1-Jan,"February 1, 2026","November 1, 2025",Required,Required,Required,ED
+Darthmouth College,15,68019,NH,NE,6%,4447,1500,1570,33,35,"January 2, 2026",2-Jan,"February 1, 2026","November 1, 2025",Recommended,Required,Required,ED
+UC LA,15,46503,CA,SW,9%,33040,1290,1510,29,32,"November 30, 2026",30-Nov,"November 30, 2026",,Not Considered,Required,Required,NA
+UC Berkeley,17,51032,CA,SW,12%,33405,1310,1530,30,35,"November 30, 2026",30-Nov,"November 30, 2026",,Not Considered,Required,Required,NA
+Rice University,18,60709,TX,SC,8%,4574,1500,1570,34,36,"January 4, 2026",4-Jan,"December 31, 2026","November 1, 2025",Considered,Required,Required,ED
+University of Notre Dame,18,65025,IN,MA,12%,8958,1440,1540,33,35,"January 3, 2026",3-Jan,"February 28, 2026","November 1, 2025",Considered,Required,Required,EA
+Vanderbilt University,18,67498,TN,SE,6%,7152,1510,1560,34,35,"January 1, 2026",1-Jan,"January 1, 2026","November 1, 2025",Considered,Required,NA,ED
+Carnegie Mellon University,21,65636,PA,MA,11%,7707,1500,1570,34,35,"January 1, 2026",1-Jan,"December 1, 2025","November 1, 2025",Considered,Required,Required,ED
+,,,,,,,,,,,,,, ,,,,
