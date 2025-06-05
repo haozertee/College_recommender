@@ -14,10 +14,28 @@ University of Chicago,11,69324,IL,Midwest,5%,7489,1510,1570,34,35,6-Jan-26,6-Jan
 Brown University,13,71312,RI,Northeast,5%,7741,1500,1570,34,35,3-Jan-26,3-Jan,3-Jan-26,1-Nov-25,Required,Recommended,Recommended,ED
 Columbia University,13,71170,NY,Mid Atlantic,4%,8902,1490,1580,34,35,1-Jan-26,1-Jan,1-Feb-26,1-Nov-25,Required,Required,Required,ED
 Darthmouth College,15,68019,NH,Northeast,6%,4447,1500,1570,33,35,2-Jan-26,2-Jan,1-Feb-26,1-Nov-25,Recommended,Required,Required,ED
-UC LA,15,46503,CA,Southwest,9%,33040,1290,1510,29,32,30-Nov-26,30-Nov,30-Nov-26,,Not Considered,Required,Required,NA
-UC Berkeley,17,51032,CA,Southwest,12%,33405,1310,1530,30,35,30-Nov-26,30-Nov,30-Nov-26,,Not Considered,Required,Required,NA
-Rice University,18,60709,TX,South Central,8%,4574,1500,1570,34,36,4-Jan-26,4-Jan,31-Dec-26,1-Nov-25,Considered,Required,Required,ED
+UC LA,15,46503,CA,Southwest,9%,33040,1290,1510,29,32,30-Nov-25,30-Nov,30-Nov-25,,Not Considered,Required,Required,NA
+UC Berkeley,17,51032,CA,Southwest,12%,33405,1310,1530,30,35,30-Nov-25,30-Nov,30-Nov-25,,Not Considered,Required,Required,NA
+Rice University,18,60709,TX,South Central,8%,4574,1500,1570,34,36,4-Jan-26,4-Jan,31-Dec-25,1-Nov-25,Considered,Required,Required,ED
 University of Notre Dame,18,65025,IN,Mid Atlantic,12%,8958,1440,1540,33,35,3-Jan-26,3-Jan,28-Feb-26,1-Nov-25,Considered,Required,Required,EA
 Vanderbilt University,18,67498,TN,Southeast,6%,7152,1510,1560,34,35,1-Jan-26,1-Jan,1-Jan-26,1-Nov-25,Considered,Required,NA,ED
 Carnegie Mellon University,21,65636,PA,Mid Atlantic,11%,7707,1500,1570,34,35,1-Jan-26,1-Jan,1-Dec-25,1-Nov-25,Considered,Required,Required,ED
-,,,,,,,,,,,,,, ,,,,
+University of Michigan Ann Arbor,21,63081,MI,Midwest,18%,33730,1350,1530,31,34,1-Feb-26,1-Feb-26,1-Feb-26,1-Nov-25,Considered,Required,Required,EA
+Washington University St. Louis,21,65790,MO,Midwest,12%,8267,1500,1570,33,35,2-Jan-26,2-Jan-26,2-Jan-26,1-Nov-25,Considered,Required,Required,ED
+Emory University,24,64280,GA,Southeast,11%,7359,1460,1550,32,34,1-Jan-26,1-Jan-26,1-Jan-26,1-Nov-25,Considered,Recommended,Recommended,ED
+Georgetown University,24,68016,DC,Mid Atlantic,13%,7968,1390,1550,32,34,10-Jan-26,10-Jan-26,10-Jan-26,1-Nov-25,Required,Recommended,NA,EA
+University of Virginia,24,60907,VA,Mid Atlantic,17%,17618,1410,1530,32,34,5-Jan-26,5-Jan-26,5-Jan-26,1-Nov-25,Considered,Considered,Considered,Both
+University of North Carolina Chapel Hill,27,41211,NC,Southeast,19%,20880,1370,1530,30,34,15-Jan-26,15-Jan-26,31-Jan-26,15-Oct-25,Considered,Required,Required,EA
+University of Southern California,28,71647,CA,Southwest,10%,21023,1440,1550,32,35,15-Jan-26,15-Jan-26,20-Feb-26,1-Nov-25,Required,Required,Required,EA
+UC San Diego,29,51015,CA,Southwest,25%,33792,1250,1470,26,33,30-Nov-25,30-Nov-25,30-Nov-25,,Not Considered,Required,Required,NA
+New York University,30,62796,NY,Mid Atlantic,9%,29760,1480,1570,33,35,5-Jan-26,5-Jan-26,31-Jan-26,1-Nov-25,Considered,Required,Required,ED
+University of Florida,30,28658,FL,Southeast,24%,34924,1300,1480,28,33,1-Mar-26,1-Mar-26,15-Dec-25,1-Nov-25,Required,Recommended,Recommended,EA
+University of Texas Austin,30,42778,TX,South Central,29%,42444,1310,1520,29,34,1-Dec-25,1-Dec-25,8-Dec-25,15-Oct-25,Considered,Required,Required,EA
+Georgia Institute of Technology,33,34484,GA,Southeast,16%,19505,1330,1530,28,34,4-Jan-26,4-Jan-26,17-Jan-26,15-Oct-25,Required,Required,Required,EA
+UC Davis,33,47682,CA,Southwest,42%,31797,1150,1410,25,31,30-Nov-25,30-Nov-25,30-Nov-25,,Not Considered,Required,Required,NA
+UC Irvine,33,46626,CA,Southwest,26%,29503,1180,1440,24,31,30-Nov-25,30-Nov-25,30-Nov-25,,Not Considered,Required,Required,NA
+University of Illinois UC,33,36760,IL,Midwest,44%,35564,1340,1530,30,34,5-Jan-26,2-Jan-26,1-Jul-25,1-Nov-25,Considered,Required,Required,EA
+Boston College,37,70702,MA,Northeast,16%,9575,1430,1540,33,34,2-Jan-26,2-Jan-26,2-Jan-26,1-Nov-25,Required,Required,Required,EA
+Tufts University,37,70704,MA,Northeast,10%,6877,1460,1550,33,35,4-Jan-26,4-Jan-26,1-Feb-26,1-Nov-25,Considered,Required,Required,ED
+UC Santa Barbara,39,47755,CA,Southwest,28%,23232,1270,1500,28,34,30-Nov-25,30-Nov-25,30-Nov-25,,Not Considered,Required,Required,NA
+University of Wisconsin Madison,39,42103,WI,Midwest,43%,37817,1350,1510,28,32,15-Jan-26,15-Jan-26,22-Jan-26,1-Nov-25,Considered,Required,Required,EA
