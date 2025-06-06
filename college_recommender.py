@@ -86,9 +86,9 @@ def main():
     with col1:
         st.markdown('<div class="card">', unsafe_allow_html=True)
         st.title("🎓 AI Guidance Counselor")
-        st.markdown("Use filters to discover colleges that match your SAT score and region preferences.")
+        st.markdown("Enter your preferences to discover recommended colleges, initially sorted by rankings.")
 
-        st.subheader("🔍 Filters")
+        st.subheader("🔍 Your Preferences")
         region_options = ["All"] + sorted(df['region'].dropna().unique())
         region = st.selectbox("📍 U.S. Region", region_options)
         sat_score = st.number_input("✏️ SAT Score (400–1600)", min_value=400, max_value=1600, value=1200)
