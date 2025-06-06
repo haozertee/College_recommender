@@ -1,41 +1,58 @@
-college,USN_rank,Tuition,State,Region,acceptance,undergrad pop,SAT Low,SAT High,ACT Low,ACT High,App Deadline,Int App Deadline,SAT ACT Deadline,EA Deadline,SAT ACT Req,TOFEL Req,IELTS Req,ED or EA
-MIT,2,62396,MA,Northeast,5%,4576,1510,1580,34,36,1-Jan-26,6-Jan,15-Feb-26,1-Nov-25,Required,Recommended,Recommended,EA
-Princeton University,1,62400,NJ,Mid Atlantic,4%,5671,1500,1580,34,35,1-Jan-26,1-Jan,1-Jan-26,1-Nov-25,Considered,Required,Required,EA
-Harvard University,3,61676,MA,Northeast,3%,7110,1500,1580,34,36,1-Jan-26,1-Jan,1-Mar-26,1-Nov-25,Required,Considered,NA,EA
-Stanford University,4,65910,CA,Southwest,4%,8054,1510,1580,34,35,5-Jan-26,5-Jan,15-Jan-26,1-Nov-25,Considered,Recommended,Considered,EA
-Yale University,5,67250,CT,Northeast,5%,6818,1500,1580,33,35,2-Jan-26,1-Jan,15-Mar-26,1-Nov-25,Considered,Recommended,Recommended,EA
-CIT,6,65898,CA,Southwest,3%,1023,1530,1570,34,36,3-Jan-26,3-Jan,31-Dec-25,1-Nov-25,Required,Required,Required,EA
-Duke University,6,69140,NC,Southeast,7%,6488,1520,1570,34,35,2-Jan-26,3-Jan,3-Jan-26,1-Nov-25,Required,NA,NA,ED
-John Hopkins University,6,65230,MD,Mid Atlantic,8%,6090,1530,1580,34,35,3-Jan-26,2-Jan,17-Jan-26,1-Nov-25,Considered,Considered,Considered,ED
-North Western University,6,68322,IL,Midwest,7%,8846,1490,1580,33,35,1-Jan-26,1-Jan,1-Jan-26,1-Nov-25,Considered,Required,Required,ED
-Univesity of Pennsylvania,10,68686,PA,Mid Atlantic,6%,9995,1500,1570,34,35,5-Jan-26,5-Jan,1-Feb-26,1-Nov-25,Considered,Required,NA,ED
-Cornell University,11,69314,NY,Mid Atlantic,8%,16071,1480,1560,33,35,2-Jan-26,2-Jan,2-Jan-26,1-Nov-25,Considered,Required,Required,ED
-University of Chicago,11,69324,IL,Midwest,5%,7489,1510,1570,34,35,6-Jan-26,6-Jan,6-Jan-26,1-Nov-25,Considered,Considered,Considered,Both
-Brown University,13,71312,RI,Northeast,5%,7741,1500,1570,34,35,3-Jan-26,3-Jan,3-Jan-26,1-Nov-25,Required,Recommended,Recommended,ED
-Columbia University,13,71170,NY,Mid Atlantic,4%,8902,1490,1580,34,35,1-Jan-26,1-Jan,1-Feb-26,1-Nov-25,Required,Required,Required,ED
-Darthmouth College,15,68019,NH,Northeast,6%,4447,1500,1570,33,35,2-Jan-26,2-Jan,1-Feb-26,1-Nov-25,Recommended,Required,Required,ED
-UC LA,15,46503,CA,Southwest,9%,33040,1290,1510,29,32,30-Nov-25,30-Nov,30-Nov-25,,Not Considered,Required,Required,NA
-UC Berkeley,17,51032,CA,Southwest,12%,33405,1310,1530,30,35,30-Nov-25,30-Nov,30-Nov-25,,Not Considered,Required,Required,NA
-Rice University,18,60709,TX,South Central,8%,4574,1500,1570,34,36,4-Jan-26,4-Jan,31-Dec-25,1-Nov-25,Considered,Required,Required,ED
-University of Notre Dame,18,65025,IN,Mid Atlantic,12%,8958,1440,1540,33,35,3-Jan-26,3-Jan,28-Feb-26,1-Nov-25,Considered,Required,Required,EA
-Vanderbilt University,18,67498,TN,Southeast,6%,7152,1510,1560,34,35,1-Jan-26,1-Jan,1-Jan-26,1-Nov-25,Considered,Required,NA,ED
-Carnegie Mellon University,21,65636,PA,Mid Atlantic,11%,7707,1500,1570,34,35,1-Jan-26,1-Jan,1-Dec-25,1-Nov-25,Considered,Required,Required,ED
-University of Michigan Ann Arbor,21,63081,MI,Midwest,18%,33730,1350,1530,31,34,1-Feb-26,1-Feb-26,1-Feb-26,1-Nov-25,Considered,Required,Required,EA
-Washington University St. Louis,21,65790,MO,Midwest,12%,8267,1500,1570,33,35,2-Jan-26,2-Jan-26,2-Jan-26,1-Nov-25,Considered,Required,Required,ED
-Emory University,24,64280,GA,Southeast,11%,7359,1460,1550,32,34,1-Jan-26,1-Jan-26,1-Jan-26,1-Nov-25,Considered,Recommended,Recommended,ED
-Georgetown University,24,68016,DC,Mid Atlantic,13%,7968,1390,1550,32,34,10-Jan-26,10-Jan-26,10-Jan-26,1-Nov-25,Required,Recommended,NA,EA
-University of Virginia,24,60907,VA,Mid Atlantic,17%,17618,1410,1530,32,34,5-Jan-26,5-Jan-26,5-Jan-26,1-Nov-25,Considered,Considered,Considered,Both
-University of North Carolina Chapel Hill,27,41211,NC,Southeast,19%,20880,1370,1530,30,34,15-Jan-26,15-Jan-26,31-Jan-26,15-Oct-25,Considered,Required,Required,EA
-University of Southern California,28,71647,CA,Southwest,10%,21023,1440,1550,32,35,15-Jan-26,15-Jan-26,20-Feb-26,1-Nov-25,Required,Required,Required,EA
-UC San Diego,29,51015,CA,Southwest,25%,33792,1250,1470,26,33,30-Nov-25,30-Nov-25,30-Nov-25,,Not Considered,Required,Required,NA
-New York University,30,62796,NY,Mid Atlantic,9%,29760,1480,1570,33,35,5-Jan-26,5-Jan-26,31-Jan-26,1-Nov-25,Considered,Required,Required,ED
-University of Florida,30,28658,FL,Southeast,24%,34924,1300,1480,28,33,1-Mar-26,1-Mar-26,15-Dec-25,1-Nov-25,Required,Recommended,Recommended,EA
-University of Texas Austin,30,42778,TX,South Central,29%,42444,1310,1520,29,34,1-Dec-25,1-Dec-25,8-Dec-25,15-Oct-25,Considered,Required,Required,EA
-Georgia Institute of Technology,33,34484,GA,Southeast,16%,19505,1330,1530,28,34,4-Jan-26,4-Jan-26,17-Jan-26,15-Oct-25,Required,Required,Required,EA
-UC Davis,33,47682,CA,Southwest,42%,31797,1150,1410,25,31,30-Nov-25,30-Nov-25,30-Nov-25,,Not Considered,Required,Required,NA
-UC Irvine,33,46626,CA,Southwest,26%,29503,1180,1440,24,31,30-Nov-25,30-Nov-25,30-Nov-25,,Not Considered,Required,Required,NA
-University of Illinois UC,33,36760,IL,Midwest,44%,35564,1340,1530,30,34,5-Jan-26,2-Jan-26,1-Jul-25,1-Nov-25,Considered,Required,Required,EA
-Boston College,37,70702,MA,Northeast,16%,9575,1430,1540,33,34,2-Jan-26,2-Jan-26,2-Jan-26,1-Nov-25,Required,Required,Required,EA
-Tufts University,37,70704,MA,Northeast,10%,6877,1460,1550,33,35,4-Jan-26,4-Jan-26,1-Feb-26,1-Nov-25,Considered,Required,Required,ED
-UC Santa Barbara,39,47755,CA,Southwest,28%,23232,1270,1500,28,34,30-Nov-25,30-Nov-25,30-Nov-25,,Not Considered,Required,Required,NA
-University of Wisconsin Madison,39,42103,WI,Midwest,43%,37817,1350,1510,28,32,15-Jan-26,15-Jan-26,22-Jan-26,1-Nov-25,Considered,Required,Required,EA
+college,USN_rank,Tuition,State,City,Region,acceptance,undergrad pop,SAT Low,SAT High,ACT Low,ACT High,App Deadline,Int App Deadline,SAT ACT Deadline,EA Deadline,SAT ACT Req,TOFEL Req,IELTS Req,ED or EA
+MIT,2,62396,MA,Cambridge,Northeast,5%,4576,1510,1580,34,36,1-Jan-26,6-Jan-2025,15-Feb-2026,1-Nov-25,Required,Recommended,Recommended,EA
+Princeton University,1,62400,NJ,Princeton,Mid Atlantic,4%,5671,1500,1580,34,35,1-Jan-26,1-Jan-2025,1-Jan-2026,1-Nov-25,Considered,Required,Required,EA
+Harvard University,3,61676,MA,Cambridge,Northeast,3%,7110,1500,1580,34,36,1-Jan-26,1-Jan-2025,1-Mar-2026,1-Nov-25,Required,Considered,NA,EA
+Stanford University,4,65910,CA,Stanford,Southwest,4%,8054,1510,1580,34,35,5-Jan-26,5-Jan-2025,15-Jan-2026,1-Nov-25,Considered,Recommended,Considered,EA
+Yale University,5,67250,CT,New Haven,Northeast,5%,6818,1500,1580,33,35,2-Jan-26,1-Jan-2025,15-Mar-2026,1-Nov-25,Considered,Recommended,Recommended,EA
+CIT,6,65898,CA,Pasadena,Southwest,3%,1023,1530,1570,34,36,3-Jan-26,3-Jan-2025,31-Dec-2025,1-Nov-25,Required,Required,Required,EA
+Duke University,6,69140,NC,Durham,Southeast,7%,6488,1520,1570,34,35,2-Jan-26,3-Jan-2025,3-Jan-2026,1-Nov-25,Required,NA,NA,ED
+John Hopkins University,6,65230,MD,Baltimore,Mid Atlantic,8%,6090,1530,1580,34,35,3-Jan-26,2-Jan-2025,17-Jan-2026,1-Nov-25,Considered,Considered,Considered,ED
+North Western University,6,68322,IL,Evanston,Midwest,7%,8846,1490,1580,33,35,1-Jan-26,1-Jan-2025,1-Jan-2026,1-Nov-25,Considered,Required,Required,ED
+Univesity of Pennsylvania,10,68686,PA,Philadelphia,Mid Atlantic,6%,9995,1500,1570,34,35,5-Jan-26,5-Jan-2025,1-Feb-2026,1-Nov-25,Considered,Required,NA,ED
+Cornell University,11,69314,NY,Ithaca,Mid Atlantic,8%,16071,1480,1560,33,35,2-Jan-26,2-Jan-2025,2-Jan-2026,1-Nov-25,Considered,Required,Required,ED
+University of Chicago,11,69324,IL,Chicago,Midwest,5%,7489,1510,1570,34,35,6-Jan-26,6-Jan-2025,6-Jan-2026,1-Nov-25,Considered,Considered,Considered,Both
+Brown University,13,71312,RI,Providence,Northeast,5%,7741,1500,1570,34,35,3-Jan-26,3-Jan-2025,3-Jan-2026,1-Nov-25,Required,Recommended,Recommended,ED
+Columbia University,13,71170,NY,New York,Mid Atlantic,4%,8902,1490,1580,34,35,1-Jan-26,1-Jan-2025,1-Feb-2026,1-Nov-25,Required,Required,Required,ED
+Darthmouth College,15,68019,NH,Hanover,Northeast,6%,4447,1500,1570,33,35,2-Jan-26,2-Jan-2025,1-Feb-2026,1-Nov-25,Recommended,Required,Required,ED
+UC LA,15,46503,CA,Los Angeles,Southwest,9%,33040,1290,1510,29,32,30-Nov-25,30-Nov-2025,30-Nov-2025,,Not Considered,Required,Required,None
+UC Berkeley,17,51032,CA,Berkeley,Southwest,12%,33405,1310,1530,30,35,30-Nov-25,30-Nov-2025,30-Nov-2025,,Not Considered,Required,Required,None
+Rice University,18,60709,TX,Houston ,South Central,8%,4574,1500,1570,34,36,4-Jan-26,4-Jan-2025,31-Dec-2025,1-Nov-25,Considered,Required,Required,ED
+University of Notre Dame,18,65025,IN,Dotre Dame,Mid Atlantic,12%,8958,1440,1540,33,35,3-Jan-26,3-Jan-2025,28-Feb-2026,1-Nov-25,Considered,Required,Required,EA
+Vanderbilt University,18,67498,TN,Nashville,Southeast,6%,7152,1510,1560,34,35,1-Jan-26,1-Jan-2025,1-Jan-2026,1-Nov-25,Considered,Required,NA,ED
+Carnegie Mellon University,21,65636,PA,Pittsburgh,Mid Atlantic,11%,7707,1500,1570,34,35,1-Jan-26,1-Jan-2025,1-Dec-2025,1-Nov-25,Considered,Required,Required,ED
+University of Michigan Ann Arbor,21,63081,MI,Ann Arbor,Midwest,18%,33730,1350,1530,31,34,1-Feb-26,1-Feb-2026,1-Feb-2026,1-Nov-25,Considered,Required,Required,EA
+Washington University St. Louis,21,65790,MO,St. Louis,Midwest,12%,8267,1500,1570,33,35,2-Jan-26,2-Jan-2026,2-Jan-2026,1-Nov-25,Considered,Required,Required,ED
+Emory University,24,64280,GA,Atlanta,Southeast,11%,7359,1460,1550,32,34,1-Jan-26,1-Jan-2026,1-Jan-2026,1-Nov-25,Considered,Recommended,Recommended,ED
+Georgetown University,24,68016,DC,Washington DC,Mid Atlantic,13%,7968,1390,1550,32,34,10-Jan-26,10-Jan-2026,10-Jan-2026,1-Nov-25,Required,Recommended,NA,EA
+University of Virginia,24,60907,VA,Charlottesville,Mid Atlantic,17%,17618,1410,1530,32,34,5-Jan-26,5-Jan-2026,5-Jan-2026,1-Nov-25,Considered,Considered,Considered,Both
+University of North Carolina Chapel Hill,27,41211,NC,Chapel Hill,Southeast,19%,20880,1370,1530,30,34,15-Jan-26,15-Jan-2026,31-Jan-2026,15-Oct-25,Considered,Required,Required,EA
+University of Southern California,28,71647,CA,Los Angeles,Southwest,10%,21023,1440,1550,32,35,15-Jan-26,15-Jan-2026,20-Feb-2026,1-Nov-25,Required,Required,Required,EA
+UC San Diego,29,51015,CA,La Jolla,Southwest,25%,33792,1250,1470,26,33,30-Nov-25,30-Nov-2025,30-Nov-2025,,Not Considered,Required,Required,NA
+New York University,30,62796,NY,New York,Mid Atlantic,9%,29760,1480,1570,33,35,5-Jan-26,5-Jan-2026,31-Jan-2026,1-Nov-25,Considered,Required,Required,ED
+University of Florida,30,28658,FL,Gainesville,Southeast,24%,34924,1300,1480,28,33,1-Mar-26,1-Mar-2026,15-Dec-2025,1-Nov-25,Required,Recommended,Recommended,EA
+University of Texas Austin,30,42778,TX,Austin,South Central,29%,42444,1310,1520,29,34,1-Dec-25,1-Dec-2025,8-Dec-2025,15-Oct-25,Considered,Required,Required,EA
+Georgia Institute of Technology,33,34484,GA,Atlanta,Southeast,16%,19505,1330,1530,28,34,4-Jan-26,4-Jan-2026,17-Jan-2026,15-Oct-25,Required,Required,Required,EA
+UC Davis,33,47682,CA,Davis,Southwest,42%,31797,1150,1410,25,31,30-Nov-25,30-Nov-2025,30-Nov-2025,,Not Considered,Required,Required,None
+UC Irvine,33,46626,CA,Irvine,Southwest,26%,29503,1180,1440,24,31,30-Nov-25,30-Nov-2025,30-Nov-2025,,Not Considered,Required,Required,None
+University of Illinois UC,33,36760,IL,Champaign,Midwest,44%,35564,1340,1530,30,34,5-Jan-26,2-Jan-2026,1-Jul-2025,1-Nov-25,Considered,Required,Required,EA
+Boston College,37,70702,MA,Chestnut Hill,Northeast,16%,9575,1430,1540,33,34,2-Jan-26,2-Jan-2026,2-Jan-2026,1-Nov-25,Required,Required,Required,EA
+Tufts University,37,70704,MA,Medford,Northeast,10%,6877,1460,1550,33,35,4-Jan-26,4-Jan-2026,1-Feb-2026,1-Nov-25,Considered,Required,Required,ED
+UC Santa Barbara,39,47755,CA,Santa Barbara,Southwest,28%,23232,1270,1500,28,34,30-Nov-25,30-Nov-2025,30-Nov-2025,,Not Considered,Required,Required,None
+University of Wisconsin Madison,39,42103,WI,Madison,Midwest,43%,37817,1350,1510,28,32,15-Jan-26,15-Jan-2026,22-Jan-2026,1-Nov-25,Considered,Required,Required,EA
+Boston University,41,68102,MA,Boston,Northeast,11%,18656,1400,1520,32,34,6-Jan-26,4-Jan-2026,4-Jan-2026,1-Nov-25,Considered,Required,Required,ED
+Ohio State University,41,40022,OH,Columbus,Midwest,51%,45728,1330,1480,29,32,15-Jan-26,15-Jan-26,15-Jan-26,1-Nov-25,Considered,Required,Required,EA
+Rutgers University New Brunswick,41,37441,NJ,Piscataway,Mid Atlantic,65%,36588,1270,1480,28,33,1-Dec-25,1-Dec-25,1-Dec-25,1-Nov-25,Required,Required,Required,EA
+University Maryland College Park,44,41186,MD,College Park,Mid Atlantic,45%,30608,1370,1520,32,35,20-Jan-26,1-Apr-2026,20-Jan-2026,1-Nov-25,Considered,Required,Required,EA
+University of Rochester,44,67124,NY,Rochester,Mid Atlantic,36%,6764,1400,1540,31,34,5-Jan-2026,5-Jan-2026,5-Jan-2026,1-Nov-25,Considered,Required,Required,ED
+Lehigh University,46,64980,PA,Bethlehem,Mid Atlantic,29%,5811,1350,1490,31,33,15-Jan-26,1-Jan-26,31-Jan-26,1-Nov-25,Considered,Required,Required,ED
+Purdue University ,46,28794,IN,West Lafayette,Midwest,50%,39170,1190,1470,27,34,15-Jan-26,1-May-26,15-Jan-26,1-Nov-25,Required,Considered,Considered,EA
+University of Georgia,46,31678,GA,Athens,Southeast,37%,31514,1220,1420,27,32,31-Jan-26,1-Jan-26,8-Jan-26,1-Nov-25,Considered,Required,Required,EA
+University of Washington,46,43209,WA,Seattle,Northwest,43%,39125,1260,1510,30,34,15-Nov-25,15-Nov-25,15-Nov-25,,Not Considered,Required,Required,None
+Wake Forest University,46,67642,NC,Winston-Salem,Southeast,22%,5471,1390,1510,32,34,1-Jan-26,1-Jan-26,1-Jan-26,15-Nov-25,Considered,Required,Considered,ED
+Texas A&M University,51,40307,TX,College Station,South Central,63%,59933,1140,1380,25,31,1-Dec-2025,1-Dec-2025,1-Dec-2025,15-Oct-25,Considered,Required,Required,EA
+Virginia Tech,51,37158,VA,Blacksburg,Mid Atlantic,57%,30504,1240,1420,27,32,1-Mar-2026,15-Jan-26,1-Mar-2026,15-Nov-25,Considered,Required,Required,EA
+Case Western Reserve University,51,66505,OH,Cleveland,Midwest,29%,6186,1420,1530,32,35,15-Jan-26,15-Jan-26,15-Jan-26,1-Nov-25,Considered,Required,NA,Both
+Florida State University,54,21683,FL,Tallahassee,Southeast,25%,32217,1240,1390,27,31,1-Mar-2026,1-Mar-2026,1-Mar-2026,,Required,Required,Required,None
+Northeastern University,54,66162,MA,Boston,Northeast,6%,15891,1460,1550,33,35,1-Jan-26,1-Jan-26,1-Jan-26,1-Nov-25,Considered,Required,Required,Both
+University of Minnesota Twin Cities,54,38362,MN,Minneapolis,Midwest,77%,39556,1310,1480,27,31,1-Jan-26,31-Jan-26,31-Jan-26,1-Nov-25,Considered,Required,Required,EA
+William & Mary,54,50752,VA,Williamsburg,Mid Atlantic,33%,6963,1365,1510,32,34,5-Jan-2026,5-Jan-2026,15-Feb-2026,1-Nov-25,Considered,Recommended,Recommended,ED
